@@ -1,0 +1,52 @@
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.exe.config
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.exe
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.pdb
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.Properties.Resources.resources
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.Form1.resources
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.csproj.GenerateResource.Cache
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.exe
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.pdb
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.PackagePicker.resources
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\bin\Debug\System.Management.Automation.dll
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.exe.manifest
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.application
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.exe.manifest
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.application
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.RemoveOneDrive.resources
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.RestoreApps.resources
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.exe.config
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.exe
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.pdb
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.exe.manifest
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.application
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.exe
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.pdb
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.PackagePicker.resources
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.Properties.Resources.resources
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.RemoveOneDrive.resources
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.RestoreApps.resources
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.Form1.resources
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.csproj.GenerateResource.Cache
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.exe.manifest
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.application
+C:\Users\Igor\Documents\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.RemoveWindowsOld.resources
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.exe.config
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.exe
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.pdb
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.exe.manifest
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.application
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.exe
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.pdb
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\System.Management.Automation.dll
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.PackagePicker.resources
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.Properties.Resources.resources
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.RemoveOneDrive.resources
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.RemoveWindowsOld.resources
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.RestoreApps.resources
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.Form1.resources
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.exe.manifest
+C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.application

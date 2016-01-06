@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Windows 10 Toolbox.exe" version="1.0.0.12" publicKeyToken="f22079b3d0621752" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Windows 10 Toolbox" version="1.0.0.0" publicKeyToken="F22079B3D0621752" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Windows 10 Toolbox.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Management.Infrastructure" version="1.0.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Management.Infrastructure.Native" version="1.0.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="amd64" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Management.Automation" version="3.0.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Windows 10 Toolbox.exe" size="47552">
+      <assemblyIdentity name="Windows 10 Toolbox" version="1.0.0.0" publicKeyToken="F22079B3D0621752" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>h1NwzixOBMihu3Eeu05ebbFl/DV95NPhxttDHmyc7sw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Windows 10 Toolbox.exe.config" size="180">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>II3wFUyfmVbv5V5BdaCrEJhCVMkC3iru/7nCXj/oMbY=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=IGOR-LAPTOP\Igor" issuerKeyHash="d4670e095111331faee9797e08dc1483cd0415dd" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>aJ0A24LlFO8T5e1XsV7VkPJa4HQpbgJOLSo4wQ4NzLk=</DigestValue></Reference></SignedInfo><SignatureValue>MRSWkWmjuZk7Bf/1DvhN3g7y5wP3Bhooa5h929a7nf+k8zsuVdhk8FOuQ0vXqxd3ZYFrVMxyMWHc8cXE5KvayLGBUCQey6QIRP09MZRHDhiVzQkWMybOvZ0+XGyE89wAl7mvYxRmMXaFzqtzdi9M5QmAHPF4Jv3xKHolHWV6w0A=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uGDVvb4iHAFzCTGLzTJksY7OYulK2PCNIq14LZ3w+ume9vXz55MkJbTbRJLReRV7tD+0d4/27geC77jA6I5am/Jr8VEFMXqfybPVOgGBH047rHuqeSv19lYl2kRj3huOMJaQdXxR4uYRwbPtRRc5kJQ/AVly+sXTIu3UO9XiXXM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b9cc0d0ec1382a2d4e026e2974e05af290d55eb157ede513ef14e582db009d68" Description="" Url=""><as:assemblyIdentity name="Windows 10 Toolbox.exe" version="1.0.0.12" publicKeyToken="f22079b3d0621752" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=IGOR-LAPTOP\Igor</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>jl5cT3l3vjbU6Jpb2Hmaj+FLqn5ExxnCDc8aDAkvAeQ=</DigestValue></Reference></SignedInfo><SignatureValue>AsrlkVtwobJ0+W1iCaU3XXQgIhmrkQYTOa1CQ2WT4bumxgaaBqriemu+iO0vp0f048qyhQxgHSIj+C4wFPnH6QHZFwa6V6vbq+RVztYnGqS7svyeqcWNdXAFxTtt0sgm6TAh9lh57cgRg3A+IOIPf+NDS71CyIDfiaeFg3fr+3k=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uGDVvb4iHAFzCTGLzTJksY7OYulK2PCNIq14LZ3w+ume9vXz55MkJbTbRJLReRV7tD+0d4/27geC77jA6I5am/Jr8VEFMXqfybPVOgGBH047rHuqeSv19lYl2kRj3huOMJaQdXxR4uYRwbPtRRc5kJQ/AVly+sXTIu3UO9XiXXM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQTNjniGEx55xAnhitJ+/H7zANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAASQBHAE8AUgAtAEwAQQBQAFQATwBQAFwASQBnAG8AcjAeFw0xNTEyMTgxNjQ5NDBaFw0xNjEyMTcyMjQ5NDBaMCsxKTAnBgNVBAMeIABJAEcATwBSAC0ATABBAFAAVABPAFAAXABJAGcAbwByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4YNW9viIcAXMJMYvNMmSxjs5i6UrY8I0irXgtnfD66Z729fPnkyQltNtEktF5FXu0P7R3j/buB4LvuMDojlqb8mvxUQUxep/Js9U6AYEfTjuse6p5K/X2ViXaRGPeG44wlpB1fFHi5hHBs+1FFzmQlD8BWXL6xdMi7dQ71eJdcwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJDOS4+miz3Gmtz+KAA256ErQdAgQB7WCwObx0SAzZg2R5ndtlOIGKp1D/7ApjYNFNjoK0dDIKoUphoBq05YUcna1hs9bfPRyUKdLzTN0GVKX0WsLKDjBnJUaY+FZ98h9d1sqUCnMG75ry09Eig7ZneY+xm3BmeoGKg/xXsceVis</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
