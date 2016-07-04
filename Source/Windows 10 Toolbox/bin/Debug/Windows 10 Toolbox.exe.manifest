@@ -3,7 +3,7 @@
   <asmv1:assemblyIdentity name="Windows 10 Toolbox.exe" version="1.0.0.12" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Windows 10 Toolbox" version="1.0.0.0" publicKeyToken="F22079B3D0621752" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="Windows 10 Toolbox" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="Windows 10 Toolbox.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -52,36 +52,29 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Management.Automation.dll" size="1555648">
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
       <assemblyIdentity name="System.Management.Automation" version="3.0.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3FMTr0ei6O6EqWYXT8LpZIeO4witZr/pv+Iq9wWoze4=</dsig:DigestValue>
-      </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Windows 10 Toolbox.exe" size="47552">
-      <assemblyIdentity name="Windows 10 Toolbox" version="1.0.0.0" publicKeyToken="F22079B3D0621752" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Windows 10 Toolbox.exe" size="48640">
+      <assemblyIdentity name="Windows 10 Toolbox" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XrKTpncm1wDnkIRJSxBZNzvsDAoymzNbtlapynFE9AE=</dsig:DigestValue>
+        <dsig:DigestValue>cilsWvxgSOTNNilsdJ8ewSU/BeIHj+LZJiqSEl8UkBg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Windows 10 Toolbox.exe.config" size="175">
+  <file name="Windows 10 Toolbox.exe.config" size="180">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>UW/WpgJFbY2oI/3URBp9kiEk+f3qJSv9n5zrbFqchAU=</dsig:DigestValue>
+      <dsig:DigestValue>II3wFUyfmVbv5V5BdaCrEJhCVMkC3iru/7nCXj/oMbY=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

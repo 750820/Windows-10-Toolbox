@@ -50,3 +50,21 @@ C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Win
 C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.csproj.GenerateResource.Cache
 C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.exe.manifest
 C:\Users\Igor\Desktop\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.application
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.exe.config
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.exe
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.pdb
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.csprojResolveAssemblyReference.cache
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.PackagePicker.resources
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.Properties.Resources.resources
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.RemoveOneDrive.resources
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.RemoveWindowsOld.resources
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.RestoreApps.resources
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.Form1.resources
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.csproj.GenerateResource.Cache
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.exe.manifest
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.application
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.exe
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\bin\Debug\Windows 10 Toolbox.pdb
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.exe.manifest
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows 10 Toolbox.application
+D:\GitHub\Windows-10-Toolbox\Source\Windows 10 Toolbox\obj\Debug\Windows_10_Toolbox.EditStartMenu.resources

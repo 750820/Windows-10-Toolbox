@@ -141,7 +141,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;buttonExit.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>6</value>
   </data>
   <data name="buttonRestoreAll.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12.25pt</value>
@@ -168,16 +168,16 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;buttonRestoreAll.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>5</value>
   </data>
   <data name="buttonRemoveOneDrive.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12.25pt</value>
   </data>
   <data name="buttonRemoveOneDrive.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 77</value>
+    <value>441, 12</value>
   </data>
   <data name="buttonRemoveOneDrive.Size" type="System.Drawing.Size, System.Drawing">
-    <value>858, 59</value>
+    <value>423, 59</value>
   </data>
   <data name="buttonRemoveOneDrive.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -195,7 +195,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;buttonRemoveOneDrive.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>4</value>
   </data>
   <data name="buttonRemoveChosen.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
@@ -204,7 +204,7 @@
     <value>11, 12</value>
   </data>
   <data name="buttonRemoveChosen.Size" type="System.Drawing.Size, System.Drawing">
-    <value>859, 59</value>
+    <value>413, 59</value>
   </data>
   <data name="buttonRemoveChosen.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -222,7 +222,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;buttonRemoveChosen.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>3</value>
   </data>
   <data name="linkLabel1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -252,16 +252,16 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;linkLabel1.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>2</value>
   </data>
   <data name="buttonRemoveWindowsOld.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
   </data>
   <data name="buttonRemoveWindowsOld.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 142</value>
+    <value>11, 77</value>
   </data>
   <data name="buttonRemoveWindowsOld.Size" type="System.Drawing.Size, System.Drawing">
-    <value>859, 59</value>
+    <value>413, 59</value>
   </data>
   <data name="buttonRemoveWindowsOld.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -279,6 +279,37 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;buttonRemoveWindowsOld.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="buttonEditStartMenu.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="buttonEditStartMenu.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonEditStartMenu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>441, 77</value>
+  </data>
+  <data name="buttonEditStartMenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>423, 59</value>
+  </data>
+  <data name="buttonEditStartMenu.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="buttonEditStartMenu.Text" xml:space="preserve">
+    <value>Edit Start Menu</value>
+  </data>
+  <data name="&gt;&gt;buttonEditStartMenu.Name" xml:space="preserve">
+    <value>buttonEditStartMenu</value>
+  </data>
+  <data name="&gt;&gt;buttonEditStartMenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonEditStartMenu.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;buttonEditStartMenu.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
@@ -290,7 +321,6 @@
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
     <value>883, 461</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
   </data>

@@ -69,5 +69,11 @@ namespace Windows_10_Toolbox
                 removeWindowsOld.Show();
             }
         }
+
+        private void buttonEditStartMenu_Click(object sender, EventArgs e)
+        {
+            Form editStartMenu = new EditStartMenu();
+            editStartMenu.Show();
+        }
     }
 }
