@@ -57,14 +57,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Windows 10 Toolbox.exe" size="48640">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Windows 10 Toolbox.exe" size="49152">
       <assemblyIdentity name="Windows 10 Toolbox" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cilsWvxgSOTNNilsdJ8ewSU/BeIHj+LZJiqSEl8UkBg=</dsig:DigestValue>
+        <dsig:DigestValue>+uWDLU8WM5L2MeDd61KYE8K1yy0ak5qZ5EBbraIgYL8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

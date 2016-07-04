@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Diagnostics;
 using System.Windows.Forms;
 
 namespace Windows_10_Toolbox
@@ -17,5 +11,16 @@ namespace Windows_10_Toolbox
             InitializeComponent();
         }
 
+        private void buttonEditForAllUsers_Click(object sender, EventArgs e)
+        {
+            Process.Start(@"C:\ProgramData\Microsoft\Windows\Start Menu");
+        }
+
+        private void buttonEditOnlyForMe_Click(object sender, EventArgs e)
+        {
+            string appDataLocation = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
+            string startFolderLocation = appDataLocation + @"\Microsoft\Windows\Start Menu";
+            Process.Start(startFolderLocation);
+        }
     }
 }

@@ -41,6 +41,7 @@
             this.buttonEditForAllUsers.TabIndex = 0;
             this.buttonEditForAllUsers.Text = "Edit for all users";
             this.buttonEditForAllUsers.UseVisualStyleBackColor = true;
+            this.buttonEditForAllUsers.Click += new System.EventHandler(this.buttonEditForAllUsers_Click);
             // 
             // buttonEditOnlyForMe
             // 
@@ -51,6 +52,7 @@
             this.buttonEditOnlyForMe.TabIndex = 1;
             this.buttonEditOnlyForMe.Text = "Edit only for me";
             this.buttonEditOnlyForMe.UseVisualStyleBackColor = true;
+            this.buttonEditOnlyForMe.Click += new System.EventHandler(this.buttonEditOnlyForMe_Click);
             // 
             // EditStartMenu
             // 
